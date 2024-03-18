@@ -24,7 +24,7 @@ You can explore the House Sales Dashboard in two ways:
 
 ## Preview
 
-**![Dashboard Preview](Screenshot (116).png)**
+![Dashboard Preview](Screenshot%20(116).png)
 
 ## Usage
 
